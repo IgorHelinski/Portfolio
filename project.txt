@@ -1,0 +1,26 @@
+INDEX:
+1. Info o mnie
+- Expierniece
+- Education
+
+2. Projects tldr
+3. Code tldr
+4. Art tldr
+
+5. cv
+
+PROJECTS:
+- Restless Grounds
+- Technical Racing
+- Multiplayer game
+
+CODE:
+- save system
+
+ART:
+- tramwaj
+- akacz
+- mercedes
+- btr
+- m16
+- przeciwnicy restles grounds
